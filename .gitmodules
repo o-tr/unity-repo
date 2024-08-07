@@ -1,0 +1,27 @@
+[submodule "Assets/jp.ootr.common"]
+	path = Assets/jp.ootr.common
+	url = https://github.com/o-tr/jp.ootr.common
+[submodule "Assets/jp.ootr.ImageDeviceController"]
+	path = Assets/jp.ootr.ImageDeviceController
+	url = https://github.com/o-tr/jp.ootr.ImageDeviceController
+[submodule "Assets/jp.ootr.ImageGimmicksPack"]
+	path = Assets/jp.ootr.ImageGimmicksPack
+	url = https://github.com/o-tr/jp.ootr.ImageGimmicksPack
+[submodule "Assets/jp.ootr.ImageScreen"]
+	path = Assets/jp.ootr.ImageScreen
+	url = https://github.com/o-tr/jp.ootr.ImageScreen
+[submodule "Assets/jp.ootr.ImageSlide"]
+	path = Assets/jp.ootr.ImageSlide
+	url = https://github.com/o-tr/jp.ootr.ImageSlide
+[submodule "Assets/jp.ootr.ImageTab"]
+	path = Assets/jp.ootr.ImageTab
+	url = https://github.com/o-tr/jp.ootr.ImageTab
+[submodule "Assets/jp.ootr.UdonLZ4"]
+	path = Assets/jp.ootr.UdonLZ4
+	url = https://github.com/o-tr/jp.ootr.UdonLZ4
+[submodule "Assets/jp.ootr.UdonZip"]
+	path = Assets/jp.ootr.UdonZip
+	url = https://github.com/o-tr/jp.ootr.UdonZip
+[submodule "Assets/jp.ootr.WeatherWidget"]
+	path = Assets/jp.ootr.WeatherWidget
+	url = https://github.com/o-tr/jp.ootr.WeatherWidget
