@@ -25,3 +25,6 @@
 [submodule "Assets/jp.ootr.WeatherWidget"]
 	path = Assets/jp.ootr.WeatherWidget
 	url = https://github.com/o-tr/jp.ootr.WeatherWidget
+[submodule "Assets/jp.ootr.ImageDeviceControllerVisualizer"]
+	path = Assets/jp.ootr.ImageDeviceControllerVisualizer
+	url = https://github.com/o-tr/jp.ootr.ImageDeviceControllerVisualizer
