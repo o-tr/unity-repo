@@ -28,3 +28,6 @@
 [submodule "Assets/jp.ootr.ImageDeviceControllerVisualizer"]
 	path = Assets/jp.ootr.ImageDeviceControllerVisualizer
 	url = https://github.com/o-tr/jp.ootr.ImageDeviceControllerVisualizer
+[submodule "Assets/jp.ootr.ImageGallery"]
+	path = Assets/jp.ootr.ImageGallery
+	url = https://o-tr@github.com/o-tr/jp.ootr.ImageGallery
